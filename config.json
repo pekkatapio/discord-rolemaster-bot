@@ -1,0 +1,6 @@
+{
+  "name":     "rolemaster",
+  "token":    "discord-bot-token",
+  "role":     "Osallistuja",
+  "textfile": "/path/to/api/generated/userlist.txt"
+}
